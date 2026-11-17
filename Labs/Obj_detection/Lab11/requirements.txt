@@ -1,5 +1,0 @@
-ipykernel>=6
-numpy
-matplotlib
-Pillow
-albumentations==1.4.24
